@@ -132,11 +132,11 @@ python src/mission_report.py
 https://github.com/anna-jaekyung-lee/manufacturing_simulator
 
 - Decision Stability Validation:
-https://github.com/anna-jaekyung-lee/hamsterbot-decision-stability-validation
+https://github.com/anna-jaekyung-lee/hamsterbot_decision_stability_validation
 
 ## Author
 
-**Jaekyung Lee**
+**Jaekyung Anna Lee**
 
 Department of Mechanical Engineering, Yonsei University
 
