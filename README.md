@@ -137,13 +137,10 @@ https://github.com/anna-jaekyung-lee/hamsterbot-decision-stability-validation
 ## Author
 
 **Jaekyung Lee**
-
 Department of Mechanical Engineering, Yonsei University
-
 Email: jjjlldk@gmail.com
 
 ## License
 
 Released for academic and portfolio use.
-
 Commercial deployment requires explicit permission.
