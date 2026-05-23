@@ -1,4 +1,4 @@
-# AeroRescue — Mission Validation & Risk Intelligence System  
+# AeroRescue: Mission Validation & Risk Intelligence System  
 **Mission Risk, Regulatory Compliance, and Decision Validation for Autonomous Aerial Operations**
 
 ---
